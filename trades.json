@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "date": "2026-06-19",
+        "type": "Buy",
+        "entry": 30534.5,
+        "exit": 30614.0,
+        "lot": 1.0,
+        "profit": 159.0,
+        "notes": "Clean Trade, foloowing all rules",
+        "image": "https://www.tradingview.com/x/lq5k9IdF/"
+    }
+]
