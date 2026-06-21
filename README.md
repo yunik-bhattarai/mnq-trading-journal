@@ -6,7 +6,7 @@ This project combines my interest in financial markets with my journey into Pyth
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The goal of this project is to build a personal trading journal that helps traders:
 
@@ -102,7 +102,7 @@ Data can be further analyzed using:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - JSON
@@ -116,7 +116,7 @@ Data can be further analyzed using:
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Main Menu
 
