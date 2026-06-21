@@ -18,7 +18,7 @@ The goal of this project is to build a personal trading journal that helps trade
 
 ---
 
-# 📌 What is MNQ?
+#  What is MNQ?
 
 MNQ (Micro E-mini Nasdaq-100 Futures) is a futures contract based on the Nasdaq-100 index.
 
@@ -45,11 +45,11 @@ Profit:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## Trade Management
 
-✅ Add Trade
+ Add Trade
 
 Store:
 
@@ -134,7 +134,7 @@ Data can be further analyzed using:
 
 ---
 
-# 📚 Python Concepts Applied
+#  Python Concepts Applied
 
 - Variables and Data Types
 - Lists
@@ -149,7 +149,7 @@ Data can be further analyzed using:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 Planned upgrades:
 
