@@ -9,5 +9,29 @@
         "profit": 159.0,
         "notes": "Clean Trade, foloowing all rules",
         "image": "https://www.tradingview.com/x/lq5k9IdF/"
+    },
+    {
+        "id": "2",
+        "date": "2026-06-20",
+        "type": "Sell",
+        "entry": 30614.0,
+        "exit": 30500.0,
+        "lot": 1.0,
+        "profit": -114.0,
+        "notes": "Clean Trade, foloowing all rules",
+        "image": "https://www.tradingview.com/x/qS3Idfr/"
+    },
+
+
+    {
+        "id": "3",
+        "date": "2026-06-21", 
+        "type": "Buy",
+        "entry": 30500.0,
+        "exit": 30600.0,
+        "lot": 1.0,
+        "profit": 100.0,
+        "notes": "Clean Trade, folorowing all rules",
+        "image": "https://www.tradingview.com/x/6ShkLyrX/"
     }
 ]

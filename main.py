@@ -17,9 +17,9 @@ if os.path.exists("trades.json"):
 
 # ---------------- MENU ----------------
 def show_menu():
-    print("\n==============================")
-    print("MNQ TRADING JOURNAL (PRO)")
-    print("==============================")
+    print("\n===========================")
+    print(" MNQ TRADING JOURNAL")
+    print("===========================")
     print("1. Add Trade")
     print("2. View All Trades")
     print("3. Search Trade")
@@ -315,3 +315,4 @@ while True:
         break
     else:
         print("Invalid choice")
+        
